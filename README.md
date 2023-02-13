@@ -1,4 +1,5 @@
-# Stephen Curry Analysis (2009-2010 to 2020-2021 seasons)
+# Stephen Curry Analysis 
+From 2009-2010 til 2020-2021 seasons
 
 Tableau Dashboard: https://public.tableau.com/app/profile/arvin7443/viz/StephenCurryPlayerStats/Dashboard1
 
