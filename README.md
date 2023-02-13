@@ -1,4 +1,4 @@
-# steph-curry-analysis
+# Stephen Curry Analysis using data from 2009-2010 to 2020-2021 seasons
 
 Tableau Dashboard:
 
